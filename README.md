@@ -1,2 +1,2 @@
 # newProject
-myNewProject
+project create testing!
